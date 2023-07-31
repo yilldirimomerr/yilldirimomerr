@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">Fullstack Developer...</h3>
 
 <div align="center">
-<a target="_blank" href="https://www.yildirimomer.com/">www.yildirimomer.com</a>
+<h3<a target="_blank" href="https://www.yildirimomer.com/">www.yildirimomer.com</a></h3>
 </div>
 
 
