@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <!--![My Codewarrior Profile Badge](https://www.codewars.com/users/omeryilldirim/badges/large)-->
 ###
-<!-- 
+
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
 </div>
--->
+
 
 ###
 
@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 <h2 align="center">My Projects</h2>
 -->
 ###
-
+<!--
 Projects      |Libraries and Technologies     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Stock App](https://mryldrm-stock.netlify.app/) | ReactJS, Redux TK and Persist, Axios, Material UI, Formik, Yup, Toastify, Emotion/react, Tremor/react [Click to see repo](https://github.com/omeryilldirim/Stock-App) | <img src="https://github.com/omeryilldirim/Stock-App/blob/main/src/assets/stock-app.gif" width="430" height="240" alt="stock app"/>
@@ -163,7 +163,7 @@ Projects      |Libraries and Technologies     |Project Preview
 [Guess the Country!](https://omeryilldirim.github.io/Guess-The-Country/) | HTML, VanillaJS, Bootstrap, DOM Manipulation [Click to see repo](https://github.com/omeryilldirim/Guess-The-Country)| <img src="https://github.com/omeryilldirim/Guess-The-Country/blob/main/snapshot.png" width="430" height="250" alt="guess the country"/>
 [Password Generator](https://omeryilldirim.github.io/Random-Password-Generator/) | HTML, CSS, VanillaJS, DOM Manipulation [Click to see repo](https://github.com/omeryilldirim/Random-Password-Generator)| <img src="https://github.com/omeryilldirim/Random-Password-Generator/blob/main/snapshot.png" width="430" height="250" alt="password generator"/>
 [Parallax Website](https://omeryilldirim.github.io/Parallax-Website/) | HTML, CSS [Click to see repo](https://github.com/omeryilldirim/Parallax-Website)| <img src="https://github.com/omeryilldirim/Parallax-Website/blob/main/parallax-website.gif" width="430" height="250" alt="parallax website"/>
-
+-->
 
 ###
 
