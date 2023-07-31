@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **yilldirimomerr/yilldirimomerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
 
 <!-- - 🧑🏻‍💻 Feel free to visit my another github account : [yilldirimomerr](https://github.com/yilldirimomerr) -->
 
-- 🤝 I’m open to collaborate **on any project**
+<!-- - 🤝 I’m open to collaborate **on any project** -->
 
 - 📫 How to reach me : **yilldirimomerr@gmail.com**
 
