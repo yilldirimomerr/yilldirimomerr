@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3<a target="_blank" href="https://www.yildirimomer.com/">www.yildirimomer.com</a></h3>
 </div>
 
-
+###
 
 <!-- ![snake gif](https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <div  align="center"> <img src="https://github.com/omeryilldirim/omeryilldirim/blob/output/github-contribution-grid-snake.svg" /></div> -->
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <!--![My Codewarrior Profile Badge](https://www.codewars.com/users/omeryilldirim/badges/large)-->
 ###
-
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
 </div>
-
+-->
 
 ###
 
